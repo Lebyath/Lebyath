@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lebyath
-- 👀 I’m interested in learning all things IT.
-- 🌱 I’m currently learning Python and CompTIA!
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me on Discord as DeathUponIt#5473!
+- 👀 I’m interested in learning Python, JavaScript and other Web Dev skills!
+- 🌱 I’m currently enrolled for CIS at WTAMU!
+- 💞️ I’m looking to collaborate on anything, I'm a beginner and will take all the help I can get.
+- 📫 How to reach me? On Discord as DeathUponIt#5473! My email is crw0509@yahoo.com.
 
 <!---
 Lebyath/Lebyath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
